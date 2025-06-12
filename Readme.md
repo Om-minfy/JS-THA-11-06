@@ -85,7 +85,7 @@ console.log(averageScore);
 
 ---
 
-## Part 3: Objects and Functions
+## Part 3: Objects & Functions
 
 ### 1. Create an object named movie with properties for title, director, and releaseYear. Print the title of the movie to the console.
 ```js
@@ -127,3 +127,6 @@ let findUser = users.find(function(user){
 });
 console.log(findUser);
 ```
+
+#### All three output:
+![alt text](3-1.PNG)

@@ -80,6 +80,9 @@ let averageScore = totalScore / scoress.length;
 console.log(averageScore);
 ```
 
+#### All four output:
+![alt text](2-1.PNG)
+
 ---
 
 ## Part 3: Objects and Functions

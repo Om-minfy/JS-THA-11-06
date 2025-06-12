@@ -37,6 +37,9 @@ for(let number = 1; number <= 20; number++) {
 }
 ```
 
+#### All three output:
+![alt text](1-1.PNG)
+
 ---
 
 ## Part 2: Arrays

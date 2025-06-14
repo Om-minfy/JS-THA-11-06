@@ -45,6 +45,9 @@ for(let number = 1; number <= 20; number++) {
 ## Part 2: Arrays
 
 ### 1. Create an array named colors with three of your favorite colors.
+   - Add a fourth color to the end of the array.
+   - Add a new color to the beginning of the array.
+   - Print the final array to the console.
 ```js
 let colors = ["Red", "Blue", "Yellow"];
 colors.push("Sky Blue");

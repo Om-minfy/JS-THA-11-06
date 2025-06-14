@@ -135,11 +135,11 @@ console.log(findUser);
 
 ## Part 4: Putting It All Together (Advanced)
 
-### 1. Write a function called `getHighAchievers`. This function should accept two arguments: an array of student objects and a `passingScore` number. Each student object will look like this: `{ id: 1, name: 'Alice', score: 85 }`.
-   - The function should filter the students to get only those with a score greater than or equal to `passingScore`.
+### 1. Write a function called getHighAchievers. This function should accept two arguments: an array of student objects and a passingScore number. Each student object will look like this: { id: 1, name: 'Alice', score: 85 }.
+   - The function should filter the students to get only those with a score greater than or equal to passingScore.
    - It should then use map to return a new array containing only the names of the high-achieving students, in all
     uppercase letters.
-   - Example: `getHighAchievers(students, 80)` might return `["ALICE", "BOB"]`.
+   - Example: getHighAchievers(students, 80) might return ["ALICE", "BOB"].
 ```js
 const student = [
     {id: 1, name: 'Dolon', score: 96},
